@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SaidHoffman?tab=followers"><img src="https://img.shields.io/github/followers/SaidHoffman?label=Seguidores&style=flat-square&color=4c8bf5&labelColor=0d1117&logo=github" /></a>
   <img src="https://komarev.com/ghpvc/?username=SaidHoffman&label=Visitas&color=4c8bf5&style=flat-square&abbreviated=true" />
   <a href="https://github.com/SaidHoffman?tab=repositories"><img src="https://img.shields.io/badge/Repos-19-4c8bf5?style=flat-square&labelColor=0d1117&logo=git" /></a>
+  <a href="https://said-sigala.netlify.app/"><img src="https://img.shields.io/badge/Portafolio-4c8bf5?style=flat-square&logo=netlify&logoColor=white" /></a>
 </p>
 ---
 
