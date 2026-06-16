@@ -9,6 +9,7 @@
   <a href="https://github.com/SaidHoffman?tab=repositories"><img src="https://img.shields.io/badge/Repos-19-4c8bf5?style=flat-square&labelColor=0d1117&logo=git" /></a>
   <a href="https://said-sigala.netlify.app/"><img src="https://img.shields.io/badge/Portafolio-4c8bf5?style=flat-square&logo=netlify&logoColor=white" /></a>
 </p>
+
 ---
 
 ### Sobre mí
