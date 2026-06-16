@@ -13,7 +13,7 @@
 
 ### Sobre mí
 
-Estudiante del **Instituto Politécnico Nacional** orientado a **datos**. Construyo pipelines de datos *end-to-end* —de la ingesta cruda a la visualización y la predicción— y modelos de *machine learning*. Vengo de una base sólida en algoritmos, estructuras de datos y simulación, y la aplico para resolver problemas reales con datos.
+Ingeniero en sistemas computacionales por el **Instituto Politécnico Nacional** orientado a **datos**. Construyo pipelines de datos *end-to-end* —de la ingesta cruda a la visualización y la predicción— y modelos de *machine learning*. Vengo de una base sólida en algoritmos, estructuras de datos y simulación, y la aplico para resolver problemas reales con datos.
 
 Abierto a colaborar y a oportunidades en ingeniería y ciencia de datos.
 
