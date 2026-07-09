@@ -16,8 +16,6 @@
 
 Pasante de Ingenieria en Sistemas Computacionales por el **Instituto Politécnico Nacional (ESCOM)**, promedio **9.02/10**, enfocado en **operaciones de seguridad (SOC / Blue Team)**.
 
-Construyo y opero un **laboratorio SOC** propio: SIEM + EDR con **Wazuh** y telemetría **Sysmon** sobre endpoints Windows y Linux, donde **simulo ataques** mapeados a **MITRE ATT&CK**, escribo mis **propias reglas de detección** y documento el **triaje y la respuesta a incidentes**. A eso sumo base en **criptografía aplicada**, **administración y monitoreo de redes** (SSH, SNMP) y **Python**.
-
 Buscando una oportunidad **junior en ciberseguridad** (SOC, Blue Team, seguridad defensiva).
 
 ---
