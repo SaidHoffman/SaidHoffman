@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=200&section=header&text=Said%20Sigala&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingenieria%20y%20Ciencia%20de%20Datos%20|%20Python%20|%20ML&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=200&section=header&text=Said%20Sigala&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ciberseguridad%20|%20SOC%20%2F%20Blue%20Team%20|%20Deteccion%20y%20Respuesta&descAlignY=58&descSize=16" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4C8BF5&center=true&vCenter=true&width=620&lines=Pipelines+de+datos+end-to-end;Airflow+%7C+dbt+%7C+PostgreSQL+%7C+Docker;Machine+Learning+con+PyTorch+y+XGBoost" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4C8BF5&center=true&vCenter=true&width=680&lines=SIEM+%2B+EDR+%7C+Wazuh+%2B+Sysmon;Deteccion+de+amenazas+mapeada+a+MITRE+ATT%26CK;Respuesta+a+incidentes+%7C+Detection+Engineering" />
 </p>
 
 <p align="center">
@@ -14,24 +14,45 @@
 
 ### Sobre mí
 
-Ingeniero en sistemas computacionales por el **Instituto Politécnico Nacional** orientado a **datos**. Construyo pipelines de datos *end-to-end* —de la ingesta cruda a la visualización y la predicción— y modelos de *machine learning*. Vengo de una base sólida en algoritmos, estructuras de datos y simulación, y la aplico para resolver problemas reales con datos.
+Pasante de Ingenieria en Sistemas Computacionales por el **Instituto Politécnico Nacional (ESCOM)**, promedio **9.02/10**, enfocado en **operaciones de seguridad (SOC / Blue Team)**.
 
-Abierto a colaborar y a oportunidades en ingeniería y ciencia de datos.
+Construyo y opero un **laboratorio SOC** propio: SIEM + EDR con **Wazuh** y telemetría **Sysmon** sobre endpoints Windows y Linux, donde **simulo ataques** mapeados a **MITRE ATT&CK**, escribo mis **propias reglas de detección** y documento el **triaje y la respuesta a incidentes**. A eso sumo base en **criptografía aplicada**, **administración y monitoreo de redes** (SSH, SNMP) y **Python**.
+
+Buscando una oportunidad **junior en ciberseguridad** (SOC, Blue Team, seguridad defensiva).
 
 ---
 
-### Herramientas
+### Áreas de enfoque
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,postgres,docker,git,linux,java&theme=dark&perline=8" />
+  <img src="https://img.shields.io/badge/SOC%20%2F%20Blue%20Team-4c8bf5?style=flat-square&logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Detection%20Engineering-4c8bf5?style=flat-square&logo=snort&logoColor=white" />
+  <img src="https://img.shields.io/badge/Respuesta%20a%20Incidentes-4c8bf5?style=flat-square&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seguridad%20de%20Red-4c8bf5?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Criptografia%20Aplicada-4c8bf5?style=flat-square&logo=letsencrypt&logoColor=white" />
 </p>
+
+---
+
+### Stack
+
+**Blue Team / Operaciones**
 <p align="center">
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-3D5AFE?style=flat-square&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sysmon-0d1117?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-c0392b?style=flat-square&logo=mitre&logoColor=white" />
+  <img src="https://img.shields.io/badge/Atomic%20Red%20Team-b71c1c?style=flat-square&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
 </p>
+
+**Sistemas, redes y automatización**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git,windows&theme=dark&perline=8" />
+  <img src="https://img.shields.io/badge/SSH-000000?style=flat-square&logo=openssh&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNS3-000000?style=flat-square&logo=gns3&logoColor=white" />
+</p>
+
+**Aprendiendo:** Microsoft Sentinel · TheHive (SOAR) · Nmap
 
 ---
 
@@ -41,60 +62,60 @@ Abierto a colaborar y a oportunidades en ingeniería y ciencia de datos.
   <tr>
     <td width="50%" valign="top">
 
-####  LigaMX Intelligence
-Plataforma de análisis **end-to-end** del fútbol mexicano (2016–2024): pipeline de datos reproducible, transformaciones con **dbt**, sistema de **rating ELO** dinámico, modelo predictivo con **XGBoost** y dashboard interactivo.
+####  Home SOC Lab
+Laboratorio **Blue Team** de detección y respuesta: **SIEM/EDR (Wazuh)** + **Sysmon** monitoreando endpoints Windows/Linux. Simulo técnicas con **Atomic Red Team** mapeadas a **MITRE ATT&CK**, escribo **reglas de detección propias** y documento la **respuesta a incidentes**.
 
-`Python` · `dbt` · `XGBoost` · `Data Eng`
+`Wazuh` · `Sysmon` · `MITRE ATT&CK` · `Detection`
 
-[→ Repo](https://github.com/SaidHoffman/LIGAMX)
+[→ Repo](https://github.com/SaidHoffman/home-soc-lab)
 
   </td>
     <td width="50%" valign="top">
 
-#### Weather Data Pipeline
-Pipeline **ELT** completo: ingesta de datos del clima desde una API, orquestación con **Apache Airflow**, transformaciones con **dbt**, almacenamiento en **PostgreSQL** y todo contenerizado con **Docker**.
+####  Administración y Monitoreo de Red
+API **REST en Python** para administrar y **monitorear** una red de routers **Cisco** (emulada en **GNS3**): comunicación segura por **SSH**, gestión de usuarios/accesos y **monitoreo con SNMP** (OIDs, *traps* de estado) con detección dinámica de la topología.
 
-`Airflow` · `dbt` · `PostgreSQL` · `Docker`
+`Python` · `SSH` · `SNMP` · `GNS3`
 
-[→ Repo](https://github.com/SaidHoffman/weather-data-project)
+[→ Repo](https://github.com/SaidHoffman/-Administraci-n-de-Servicios-en-Red)
 
   </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-####  Argon2Net — Red Neuronal
-Red neuronal en **PyTorch** para derivación de claves criptográficas de 128 bits. Pasa **13/15 tests NIST SP 800-22**, con 21 tests unitarios y empaquetada como librería Python multiplataforma.
+####  Cripto — Expedientes Clínicos Cifrados
+App **Django** con cifrado **híbrido de extremo a extremo**: AES-256 con envoltura de llaves **X25519 (ECDH) + AES-GCM** y firmas **Ed25519**. Las llaves privadas nunca se guardan en el servidor. Desplegada en **Azure** con endurecimiento.
 
-`PyTorch` · `Deep Learning` · `Cripto`
+`Django` · `Criptografía` · `Azure`
 
-[→ Repo](https://github.com/SaidHoffman/RedNeuronalTT)
+[→ Repo](https://github.com/SaidHoffman/Cripto)
 
   </td>
     <td width="50%" valign="top">
 
-#### Algoritmos & Simulación
-Base de CS: **Dijkstra** para rutas en grafos, **autómata celular** simulando propagación viral, búsqueda en IA con Prolog y protocolos de red.
+####  Argon2Net — Derivación de llaves con IA
+**Trabajo Terminal**: red neuronal **BiLSTM** para derivar claves criptográficas de 128 bits, validada con la batería estadística **NIST SP 800-22** (86.67 %). Empaquetada como librería Python con pruebas unitarias.
 
-`Python` · `Java` · `Prolog`
+`PyTorch` · `Criptografía` · `NIST SP 800-22`
 
-[Dijkstra](https://github.com/SaidHoffman/MCTD-RUTACORTA) · [VIH](https://github.com/Armando5347/VIH-automata-celular) · [Prolog](https://github.com/SaidHoffman/CanibalesYMisioneros)
+[→ Repo](https://github.com/SaidHoffman/RedNeuronalTT)
 
   </td>
   </tr>
-</table>
+  <tr>
+    <td width="50%" valign="top">
 
----
+####  Criptografía Aplicada
+Implementaciones prácticas de algoritmos criptográficos: **RSA**, **Diffie-Hellman**, **ECDH**, **ECDSA** y curvas elípticas, con reportes técnicos de cada laboratorio.
 
-### Resumen del perfil
+`Python` · `RSA` · `ECDH` · `ECDSA`
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaidHoffman&theme=github_dark" width="100%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaidHoffman&theme=github_dark" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaidHoffman&theme=github_dark" height="200" />
-</p>
+[→ Repo](https://github.com/SaidHoffman/Criptografia)
+
+  </td>
+    <td width="50%" valign="top">
+
 
 ---
 
@@ -105,10 +126,6 @@ Base de CS: **Dijkstra** para rutas en grafos, **autómata celular** simulando p
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidHoffman&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4c8bf5" />
 </p>
 
----
-
-### Actividad
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaidHoffman&theme=react-dark&hide_border=true&bg_color=0d1117&color=4c8bf5&line=4c8bf5&point=ffffff&area=true&height=300" width="100%" />
 
 ---
@@ -116,7 +133,7 @@ Base de CS: **Dijkstra** para rutas en grafos, **autómata celular** simulando p
 <p align="center">
   <a href="mailto:saidsigala14@gmail.com"><img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://said-sigala.netlify.app/"><img src="https://img.shields.io/badge/Portafolio-4c8bf5?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saidsigala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c8bf5,100:0d1117&height=120&section=footer" width="100%" />
