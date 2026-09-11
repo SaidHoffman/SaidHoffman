@@ -1,56 +1,72 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=200&section=header&text=Said%20Sigala&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ciberseguridad%20|%20SOC%20%2F%20Blue%20Team%20|%20Deteccion%20y%20Respuesta&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=200&section=header&text=Said%20Sigala&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20|%20ETL%2FELT%20·%20Airflow%20·%20dbt%20·%20GCP&descAlignY=58&descSize=16" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4C8BF5&center=true&vCenter=true&width=680&lines=SIEM+%2B+EDR+%7C+Wazuh+%2B+Sysmon;Deteccion+de+amenazas+mapeada+a+MITRE+ATT%26CK;Respuesta+a+incidentes+%7C+Detection+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4C8BF5&center=true&vCenter=true&width=680&lines=Pipelines+de+datos+de+extremo+a+extremo;Airflow+%C2%B7+dbt+%C2%B7+BigQuery+%C2%B7+Docker;Datos+confiables%2C+documentados+y+observables" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SaidHoffman&label=Visitas&color=4c8bf5&style=flat-square&abbreviated=true" />
-  <a href="https://github.com/SaidHoffman?tab=repositories"><img src="https://img.shields.io/badge/Repos-19-4c8bf5?style=flat-square&labelColor=0d1117&logo=git" /></a>
   <a href="https://said-sigala.netlify.app/"><img src="https://img.shields.io/badge/Portafolio-4c8bf5?style=flat-square&logo=netlify&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saidsigala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Disponible-para%20nuevas%20oportunidades-2D8C6E?style=flat-square" />
 </p>
 
 ---
 
 ### Sobre mí
 
-Pasante de Ingenieria en Sistemas Computacionales por el **Instituto Politécnico Nacional (ESCOM)**, promedio **9.02/10**, enfocado en **operaciones de seguridad (SOC / Blue Team)**.
+Egresado de Ingeniería en Sistemas Computacionales por el **Instituto Politécnico Nacional (ESCOM)**, promedio **9.02/10**, enfocado en **ingeniería de datos**.
 
-Buscando una oportunidad **junior en ciberseguridad** (SOC, Blue Team, seguridad defensiva).
+Construyo **pipelines ETL/ELT de extremo a extremo**: ingesta desde APIs y archivos, orquestación con **Airflow** y **Prefect**, transformaciones con **dbt** y **SQL** (CTEs, funciones de ventana), modelado dimensional y despliegue en **Google Cloud** (BigQuery, Dataflow, Cloud Storage). Me importa que los datos sean confiables: pruebas de calidad, cargas idempotentes y documentación clara.
 
----
-
-### Áreas de enfoque
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SOC%20%2F%20Blue%20Team-4c8bf5?style=flat-square&logo=elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Detection%20Engineering-4c8bf5?style=flat-square&logo=snort&logoColor=white" />
-  <img src="https://img.shields.io/badge/Respuesta%20a%20Incidentes-4c8bf5?style=flat-square&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seguridad%20de%20Red-4c8bf5?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Criptografia%20Aplicada-4c8bf5?style=flat-square&logo=letsencrypt&logoColor=white" />
-</p>
+Busco mi primera oportunidad como **Data Engineer** o **Analytics Engineer**.
 
 ---
 
 ### Stack
 
-**Blue Team / Operaciones**
+**Lenguajes**
 <p align="center">
-  <img src="https://img.shields.io/badge/Wazuh-3D5AFE?style=flat-square&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sysmon-0d1117?style=flat-square&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-c0392b?style=flat-square&logo=mitre&logoColor=white" />
-  <img src="https://img.shields.io/badge/Atomic%20Red%20Team-b71c1c?style=flat-square&logo=redhat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
 
-**Sistemas, redes y automatización**
+**Orquestación y transformación**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git,windows&theme=dark&perline=8" />
-  <img src="https://img.shields.io/badge/SSH-000000?style=flat-square&logo=openssh&logoColor=white" />
-  <img src="https://img.shields.io/badge/GNS3-000000?style=flat-square&logo=gns3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prefect-070E10?style=flat-square&logo=prefect&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
-**Aprendiendo:** Microsoft Sentinel · TheHive (SOAR) · Nmap
+**Almacenamiento y nube**
+<p align="center">
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dataflow-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+</p>
+
+**Visualización y ML**
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache%20Superset-20A6C9?style=flat-square&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+</p>
+
+**Infraestructura**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,gcp&theme=dark" />
+</p>
 
 ---
 
@@ -60,60 +76,81 @@ Buscando una oportunidad **junior en ciberseguridad** (SOC, Blue Team, seguridad
   <tr>
     <td width="50%" valign="top">
 
-####  Home SOC Lab
-Laboratorio **Blue Team** de detección y respuesta: **SIEM/EDR (Wazuh)** + **Sysmon** monitoreando endpoints Windows/Linux. Simulo técnicas con **Atomic Red Team** mapeadas a **MITRE ATT&CK**, escribo **reglas de detección propias** y documento la **respuesta a incidentes**.
+#### LigaMX Intelligence
+Plataforma de analytics sobre **2,813 partidos** de Liga MX (2016–2024). Ingesta desde Kaggle a **DuckDB**, transformación en capas con **dbt** (staging → intermediate → marts) y tests de calidad, orquestada con **Prefect**. Rating **ELO dinámico**, clasificador **XGBoost** y simulador **Monte Carlo** en un dashboard **Streamlit**.
 
-`Wazuh` · `Sysmon` · `MITRE ATT&CK` · `Detection`
+`dbt` · `DuckDB` · `Prefect` · `XGBoost` · `Streamlit`
 
-[→ Repo](https://github.com/SaidHoffman/home-soc-lab)
+[→ Repo](https://github.com/SaidHoffman/LIGAMX)
 
   </td>
     <td width="50%" valign="top">
 
-####  Administración y Monitoreo de Red
-API **REST en Python** para administrar y **monitorear** una red de routers **Cisco** (emulada en **GNS3**): comunicación segura por **SSH**, gestión de usuarios/accesos y **monitoreo con SNMP** (OIDs, *traps* de estado) con detección dinámica de la topología.
+#### Football Data Pipeline
+Pipeline en **GCP** con arquitectura **medallion**: la API de football-data.org aterriza en **Cloud Storage** (Bronze), se carga de forma **idempotente** a **BigQuery** y **dbt** construye Silver y Gold con 7 tests de calidad. **Airflow** extrae La Liga y Premier League en paralelo. Dashboard en **Looker Studio**.
 
-`Python` · `SSH` · `SNMP` · `GNS3`
+`Airflow` · `GCS` · `BigQuery` · `dbt` · `Docker`
 
-[→ Repo](https://github.com/SaidHoffman/-Administraci-n-de-Servicios-en-Red)
+[→ Repo](https://github.com/SaidHoffman/Pipeline-LaLiga---Premier-Ligue)
 
   </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-####  Cripto — Expedientes Clínicos Cifrados
-App **Django** con cifrado **híbrido de extremo a extremo**: AES-256 con envoltura de llaves **X25519 (ECDH) + AES-GCM** y firmas **Ed25519**. Las llaves privadas nunca se guardan en el servidor. Desplegada en **Azure** con endurecimiento.
+#### Weather Data Pipeline
+Pipeline **ELT** 100 % contenedorizado: ingesta de clima en tiempo real desde la API de Weatherstack a **PostgreSQL**, modelos **dbt** con deduplicación por funciones de ventana y marts de promedios diarios, orquestado con **Airflow** y visualizado en **Apache Superset**.
 
-`Django` · `Criptografía` · `Azure`
+`Airflow` · `dbt` · `PostgreSQL` · `Superset` · `Docker`
 
-[→ Repo](https://github.com/SaidHoffman/Cripto)
+[→ Repo](https://github.com/SaidHoffman/weather-data-project)
 
   </td>
     <td width="50%" valign="top">
 
-####  Argon2Net — Derivación de llaves con IA
-**Trabajo Terminal**: red neuronal **BiLSTM** para derivar claves criptográficas de 128 bits, validada con la batería estadística **NIST SP 800-22** (86.67 %). Empaquetada como librería Python con pruebas unitarias.
+#### NYC Taxi — ETL a esquema estrella
+Pipeline **ETL** en Python con capa de *landing* inmutable, **reglas de limpieza auditables**, **esquema estrella** (dimensión de rol y llaves sustitutas) e **integridad referencial** validada en Python y en la base. Cargas idempotentes a **SQLite**.
 
-`PyTorch` · `Criptografía` · `NIST SP 800-22`
+`Python` · `pandas` · `SQL` · `Modelado dimensional`
+
+[→ Repo](https://github.com/SaidHoffman/nyc-taxi-pipeline)
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+#### Argon2Net — Trabajo Terminal
+Pipeline **ETL modular** que procesó **2 millones de registros** para entrenar una red **BiLSTM** en **PyTorch**. Aprobó 13/15 pruebas **NIST SP 800-22** (86.67 %) con 5 ms de inferencia. Empaquetada como librería con 21 pruebas unitarias. *Propuesto a Mención Honorífica.*
+
+`Python` · `ETL` · `PyTorch` · `pandas`
 
 [→ Repo](https://github.com/SaidHoffman/RedNeuronalTT)
 
   </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 
-####  Criptografía Aplicada
-Implementaciones prácticas de algoritmos criptográficos: **RSA**, **Diffie-Hellman**, **ECDH**, **ECDSA** y curvas elípticas, con reportes técnicos de cada laboratorio.
+#### Portafolio
+Sitio personal con mis proyectos, experiencia y certificaciones. Estático, sin *frameworks* y basado en archivos JSON, desplegado en **Netlify**.
 
-`Python` · `RSA` · `ECDH` · `ECDSA`
+`HTML` · `CSS` · `JavaScript` · `Netlify`
 
-[→ Repo](https://github.com/SaidHoffman/Criptografia)
+[→ Ver sitio](https://said-sigala.netlify.app/) · [→ Repo](https://github.com/SaidHoffman/portfolio)
 
   </td>
-    <td width="50%" valign="top">
+  </tr>
+</table>
 
+---
+
+### Certificaciones
+
+| Certificación | Emisor |
+|---------------|--------|
+| [ETL Processing on Google Cloud Using Dataflow and BigQuery](https://coursera.org/verify/8CBYXPT9INU8) | Google Cloud |
+| [Introduction to Data Engineering on Google Cloud](https://coursera.org/verify/6MKNVOG12MHE) | Google Cloud |
+| [Supervised Machine Learning: Regression and Classification](https://coursera.org/verify/LMUVE5KYYQL2) | DeepLearning.AI / Stanford |
+| [SQL (Intermediate)](https://www.hackerrank.com/certificates/b1bcd547cd78) · [Python](https://www.hackerrank.com/certificates/334aaaa99db5) · [Problem Solving (Gold)](https://www.hackerrank.com/certificates/37bee920e4f8) | HackerRank |
 
 ---
 
