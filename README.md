@@ -23,6 +23,85 @@ Busco mi primera oportunidad como **Data Engineer** o **Analytics Engineer**.
 
 ---
 
+### Proyecto estrella: Argon2Net
+
+<table>
+  <tr>
+    <td>
+
+**Mi Trabajo Terminal en la ESCOM-IPN (2025), propuesto a mención honorífica.**
+
+¿Puede una red neuronal imitar a Argon2id, la función que convierte contraseñas en claves criptográficas? Para responderlo armamos un dataset de 2 millones de registros (contraseñas reales de SecLists, salts de 128 bits y la clave que da Argon2id) y entrenamos una BiLSTM en PyTorch para reproducirla.
+
+| NIST SP 800-22 | Inferencia | Pruebas unitarias | Efecto avalancha |
+|:---:|:---:|:---:|:---:|
+| 13 de 15 aprobadas | ~5 ms | 21 de 21 | 4.30 % (lo ideal es 50 %) |
+
+La red imita bien la distribución de las claves, pero no su efecto avalancha, así que no puede sustituir a Argon2. Medir ese límite con rigor fue lo más valioso del proyecto.
+
+`Python` · `PyTorch` · `BiLSTM` · `pandas` · `NIST SP 800-22`
+
+[→ Repo](https://github.com/SaidHoffman/RedNeuronalTT) · [→ Artículo (PDF)](https://github.com/SaidHoffman/portfolio/blob/main/assets/material/ArticuloTT_2025-B144%20%281%29.pdf)
+
+  </td>
+  </tr>
+</table>
+
+---
+
+### Proyectos de datos
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+#### LigaMX Intelligence
+Quería ver qué tan predecible es la Liga MX. Bajo 2,813 partidos (2016-2024) de Kaggle a DuckDB, los modelo con dbt, calculo un ELO por equipo y entreno un XGBoost que alimenta una simulación Monte Carlo de 5,000 torneos. Todo corre con Prefect y se ve en Streamlit.
+
+`dbt` · `DuckDB` · `Prefect` · `XGBoost` · `Streamlit`
+
+[→ Repo](https://github.com/SaidHoffman/LIGAMX)
+
+  </td>
+    <td width="50%" valign="top">
+
+#### Football Data Pipeline
+Cada mañana Airflow baja la tabla y los partidos de La Liga y la Premier League desde una API, los guarda en Cloud Storage y los carga a BigQuery sin duplicar datos. dbt arma las capas silver y gold, y el resultado se ve en un dashboard de Looker Studio.
+
+`Airflow` · `GCS` · `BigQuery` · `dbt` · `Docker`
+
+[→ Repo](https://github.com/SaidHoffman/Pipeline-LaLiga---Premier-Ligue) · [→ Dashboard](https://datastudio.google.com/reporting/429d9a0c-fa02-4608-86a9-b8e1cd533fe0)
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+#### Weather Data Pipeline
+Ingesta del clima de Nueva York desde la API de Weatherstack a PostgreSQL. dbt quita duplicados y saca promedios diarios, Airflow orquesta y Superset grafica. Todo levanta con Docker Compose.
+
+`Airflow` · `dbt` · `PostgreSQL` · `Superset` · `Docker`
+
+[→ Repo](https://github.com/SaidHoffman/weather-data-project)
+
+  </td>
+    <td width="50%" valign="top">
+
+#### NYC Taxi: ETL a esquema estrella
+ETL en Python que limpia viajes de taxi con reglas auditables (ninguna fila se borra sin registrarlo) y los carga a un esquema estrella en SQLite, con la integridad referencial revisada en Python y en la base.
+
+`Python` · `pandas` · `SQL` · `Modelado dimensional`
+
+[→ Repo](https://github.com/SaidHoffman/nyc-taxi-pipeline)
+
+  </td>
+  </tr>
+</table>
+
+Todo esto también está en mi [portafolio](https://said-sigala.netlify.app/) ([repo](https://github.com/SaidHoffman/portfolio)), un sitio estático en HTML, CSS y JavaScript.
+
+---
+
 ### Stack
 
 **Lenguajes**
@@ -67,79 +146,6 @@ Busco mi primera oportunidad como **Data Engineer** o **Analytics Engineer**.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,gcp&theme=dark" />
 </p>
-
----
-
-### Proyectos destacados
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-#### LigaMX Intelligence
-Plataforma de analytics sobre **2,813 partidos** de Liga MX (2016–2024). Ingesta desde Kaggle a **DuckDB**, transformación en capas con **dbt** (staging → intermediate → marts) y tests de calidad, orquestada con **Prefect**. Rating **ELO dinámico**, clasificador **XGBoost** y simulador **Monte Carlo** en un dashboard **Streamlit**.
-
-`dbt` · `DuckDB` · `Prefect` · `XGBoost` · `Streamlit`
-
-[→ Repo](https://github.com/SaidHoffman/LIGAMX)
-
-  </td>
-    <td width="50%" valign="top">
-
-#### Football Data Pipeline
-Pipeline en **GCP** con arquitectura **medallion**: la API de football-data.org aterriza en **Cloud Storage** (Bronze), se carga de forma **idempotente** a **BigQuery** y **dbt** construye Silver y Gold con 7 tests de calidad. **Airflow** extrae La Liga y Premier League en paralelo. Dashboard en **Looker Studio**.
-
-`Airflow` · `GCS` · `BigQuery` · `dbt` · `Docker`
-
-[→ Repo](https://github.com/SaidHoffman/Pipeline-LaLiga---Premier-Ligue)
-
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-#### Weather Data Pipeline
-Pipeline **ELT** 100 % contenedorizado: ingesta de clima en tiempo real desde la API de Weatherstack a **PostgreSQL**, modelos **dbt** con deduplicación por funciones de ventana y marts de promedios diarios, orquestado con **Airflow** y visualizado en **Apache Superset**.
-
-`Airflow` · `dbt` · `PostgreSQL` · `Superset` · `Docker`
-
-[→ Repo](https://github.com/SaidHoffman/weather-data-project)
-
-  </td>
-    <td width="50%" valign="top">
-
-#### NYC Taxi — ETL a esquema estrella
-Pipeline **ETL** en Python con capa de *landing* inmutable, **reglas de limpieza auditables**, **esquema estrella** (dimensión de rol y llaves sustitutas) e **integridad referencial** validada en Python y en la base. Cargas idempotentes a **SQLite**.
-
-`Python` · `pandas` · `SQL` · `Modelado dimensional`
-
-[→ Repo](https://github.com/SaidHoffman/nyc-taxi-pipeline)
-
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-#### Argon2Net — Trabajo Terminal
-Pipeline **ETL modular** que procesó **2 millones de registros** para entrenar una red **BiLSTM** en **PyTorch**. Aprobó 13/15 pruebas **NIST SP 800-22** (86.67 %) con 5 ms de inferencia. Empaquetada como librería con 21 pruebas unitarias. *Propuesto a Mención Honorífica.*
-
-`Python` · `ETL` · `PyTorch` · `pandas`
-
-[→ Repo](https://github.com/SaidHoffman/RedNeuronalTT)
-
-  </td>
-    <td width="50%" valign="top">
-
-#### Portafolio
-Sitio personal con mis proyectos, experiencia y certificaciones. Estático, sin *frameworks* y basado en archivos JSON, desplegado en **Netlify**.
-
-`HTML` · `CSS` · `JavaScript` · `Netlify`
-
-[→ Ver sitio](https://said-sigala.netlify.app/) · [→ Repo](https://github.com/SaidHoffman/portfolio)
-
-  </td>
-  </tr>
-</table>
 
 ---
 
