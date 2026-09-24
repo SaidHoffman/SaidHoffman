@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=200&section=header&text=Said%20Sigala&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20|%20ETL%2FELT%20·%20Airflow%20·%20dbt%20·%20GCP&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=200&section=header&text=Said%20Sigala&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Systems%20%7C%20Networking%20%C2%B7%20Cloud%20%C2%B7%20Security&descAlignY=58&descSize=16" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4C8BF5&center=true&vCenter=true&width=680&lines=Pipelines+de+datos+de+extremo+a+extremo;Airflow+%C2%B7+dbt+%C2%B7+BigQuery+%C2%B7+Docker;Datos+confiables%2C+documentados+y+observables" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4C8BF5&center=true&vCenter=true&width=680&lines=Redes%2C+sistemas+y+cloud;Automatizaci%C3%B3n+con+Python%2C+Bash+y+Docker;Seguridad%2C+software+y+datos" />
 </p>
 
 <p align="center">
@@ -15,15 +15,28 @@
 
 ### Sobre mí
 
-Egresado de Ingeniería en Sistemas Computacionales por el **Instituto Politécnico Nacional (ESCOM)**, promedio **9.02/10**, enfocado en **ingeniería de datos**.
+Egresado de Ingeniería en Sistemas Computacionales por el **Instituto Politécnico Nacional (ESCOM)**, promedio **9.02/10**, con un perfil orientado a **IT, sistemas, redes, cloud y seguridad**.
 
-Construyo **pipelines ETL/ELT de extremo a extremo**: ingesta desde APIs y archivos, orquestación con **Airflow** y **Prefect**, transformaciones con **dbt** y **SQL** (CTEs, funciones de ventana), modelado dimensional y despliegue en **Google Cloud** (BigQuery, Dataflow, Cloud Storage). Me importa que los datos sean confiables: pruebas de calidad, cargas idempotentes y documentación clara.
+Me interesa construir y solucionar sistemas completos: APIs y automatización con Python, redes Cisco y GNS3, Linux, Docker, servicios cloud, seguridad defensiva, bases de datos y pipelines de datos. Trabajo con una mentalidad práctica: entender el problema, verificar el comportamiento y documentar una solución reproducible.
 
-Busco mi primera oportunidad como **Data Engineer** o **Analytics Engineer**.
+Busco mi primera oportunidad en **IT**, especialmente en infraestructura, redes, cloud, automatización, DevOps o seguridad.
 
 ---
 
-### Proyecto estrella: Argon2Net
+### Áreas de interés
+
+| Área | En qué trabajo |
+|---|---|
+| Sistemas y redes | TCP/IP, VLANs, routing, Cisco, GNS3, Linux y troubleshooting |
+| Cloud y automatización | Docker, GCP, Azure, Python, Bash y GitHub Actions |
+| Seguridad | SOC casero, Wazuh, Sysmon, MITRE ATT&CK, criptografía y hardening |
+| Software y datos | APIs REST, Java, SQL, ETL/ELT, analítica y machine learning |
+
+---
+
+### Proyectos destacados
+
+#### Proyecto destacado: Argon2Net
 
 <table>
   <tr>
@@ -49,7 +62,13 @@ La red imita bien la distribución de las claves, pero no su efecto avalancha, a
 
 ---
 
-### Proyectos de datos
+#### Redes, seguridad y sistemas
+
+- [Home SOC Lab](https://github.com/SaidHoffman/home-soc-lab): laboratorio Blue Team con Wazuh y Sysmon, simulación de ataques, detecciones y respuesta mapeadas a MITRE ATT&CK.
+- [Administración de Servicios en Red](https://github.com/SaidHoffman/Administracion-de-Servicios-en-Red): API REST en Python para administrar y monitorear routers Cisco emulados en GNS3 mediante SSH y SNMP.
+- [Cripto](https://github.com/SaidHoffman/Cripto): aplicación Django de expedientes cifrados con AES-256, X25519, AES-GCM y firmas Ed25519.
+
+#### Datos, automatización y analítica
 
 <table>
   <tr>
@@ -111,7 +130,7 @@ Todo esto también está en mi [portafolio](https://said-sigala.netlify.app/) ([
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
 
-**Orquestación y transformación**
+**Automatización, datos y backend**
 <p align="center">
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Prefect-070E10?style=flat-square&logo=prefect&logoColor=white" />
@@ -120,7 +139,7 @@ Todo esto también está en mi [portafolio](https://said-sigala.netlify.app/) ([
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
-**Almacenamiento y nube**
+**Cloud, bases de datos y almacenamiento**
 <p align="center">
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
@@ -131,7 +150,7 @@ Todo esto también está en mi [portafolio](https://said-sigala.netlify.app/) ([
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 </p>
 
-**Visualización y ML**
+**Analítica y machine learning**
 <p align="center">
   <img src="https://img.shields.io/badge/Apache%20Superset-20A6C9?style=flat-square&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white" />
@@ -142,9 +161,9 @@ Todo esto también está en mi [portafolio](https://said-sigala.netlify.app/) ([
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 </p>
 
-**Infraestructura**
+**Sistemas, redes y DevOps**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,gcp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows,gcp,azure&theme=dark" />
 </p>
 
 ---
